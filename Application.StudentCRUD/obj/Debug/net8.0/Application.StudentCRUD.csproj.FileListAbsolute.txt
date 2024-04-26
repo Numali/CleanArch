@@ -1,0 +1,15 @@
+C:\Users\Numa Rai\source\repos\Solution1\Application.StudentCRUD\bin\Debug\net8.0\Application.StudentCRUD.deps.json
+C:\Users\Numa Rai\source\repos\Solution1\Application.StudentCRUD\bin\Debug\net8.0\Application.StudentCRUD.dll
+C:\Users\Numa Rai\source\repos\Solution1\Application.StudentCRUD\bin\Debug\net8.0\Application.StudentCRUD.pdb
+C:\Users\Numa Rai\source\repos\Solution1\Application.StudentCRUD\bin\Debug\net8.0\Domain.StudentCRUD.dll
+C:\Users\Numa Rai\source\repos\Solution1\Application.StudentCRUD\bin\Debug\net8.0\Domain.StudentCRUD.pdb
+C:\Users\Numa Rai\source\repos\Solution1\Application.StudentCRUD\obj\Debug\net8.0\Application.StudentCRUD.csproj.AssemblyReference.cache
+C:\Users\Numa Rai\source\repos\Solution1\Application.StudentCRUD\obj\Debug\net8.0\Application.StudentCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Numa Rai\source\repos\Solution1\Application.StudentCRUD\obj\Debug\net8.0\Application.StudentCRUD.AssemblyInfoInputs.cache
+C:\Users\Numa Rai\source\repos\Solution1\Application.StudentCRUD\obj\Debug\net8.0\Application.StudentCRUD.AssemblyInfo.cs
+C:\Users\Numa Rai\source\repos\Solution1\Application.StudentCRUD\obj\Debug\net8.0\Application.StudentCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Numa Rai\source\repos\Solution1\Application.StudentCRUD\obj\Debug\net8.0\Applicat.C3DFB928.Up2Date
+C:\Users\Numa Rai\source\repos\Solution1\Application.StudentCRUD\obj\Debug\net8.0\Application.StudentCRUD.dll
+C:\Users\Numa Rai\source\repos\Solution1\Application.StudentCRUD\obj\Debug\net8.0\refint\Application.StudentCRUD.dll
+C:\Users\Numa Rai\source\repos\Solution1\Application.StudentCRUD\obj\Debug\net8.0\Application.StudentCRUD.pdb
+C:\Users\Numa Rai\source\repos\Solution1\Application.StudentCRUD\obj\Debug\net8.0\ref\Application.StudentCRUD.dll
