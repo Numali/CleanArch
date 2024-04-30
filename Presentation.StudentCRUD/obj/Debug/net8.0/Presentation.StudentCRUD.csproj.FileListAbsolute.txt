@@ -81,3 +81,8 @@ C:\Users\Numa Rai\source\repos\Solution1\Presentation.StudentCRUD\bin\Debug\net8
 C:\Users\Numa Rai\source\repos\Solution1\Presentation.StudentCRUD\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\Numa Rai\source\repos\Solution1\Presentation.StudentCRUD\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 C:\Users\Numa Rai\source\repos\Solution1\Presentation.StudentCRUD\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Numa Rai\source\repos\Solution1\Presentation.StudentCRUD\obj\Debug\net8.0\Presentation.StudentCRUD.sourcelink.json
+C:\Users\Numa Rai\source\repos\Solution1\Presentation.StudentCRUD\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Numa Rai\source\repos\Solution1\Presentation.StudentCRUD\bin\Debug\net8.0\Scrutor.dll
+C:\Users\Numa Rai\source\repos\Solution1\Presentation.StudentCRUD\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\Numa Rai\source\repos\Solution1\Presentation.StudentCRUD\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll

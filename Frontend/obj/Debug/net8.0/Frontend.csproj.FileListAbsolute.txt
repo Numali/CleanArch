@@ -90,3 +90,8 @@ C:\Users\Numa Rai\source\repos\Solution1\Frontend\bin\Debug\net8.0\Presentation.
 C:\Users\Numa Rai\source\repos\Solution1\Frontend\obj\Debug\net8.0\Frontend.csproj.AssemblyReference.cache
 C:\Users\Numa Rai\source\repos\Solution1\Frontend\obj\Debug\net8.0\Frontend.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Numa Rai\source\repos\Solution1\Frontend\obj\Debug\net8.0\Frontend.csproj.Up2Date
+C:\Users\Numa Rai\source\repos\Solution1\Frontend\obj\Debug\net8.0\Frontend.sourcelink.json
+C:\Users\Numa Rai\source\repos\Solution1\Frontend\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Numa Rai\source\repos\Solution1\Frontend\bin\Debug\net8.0\Scrutor.dll
+C:\Users\Numa Rai\source\repos\Solution1\Frontend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\Numa Rai\source\repos\Solution1\Frontend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll

@@ -10,3 +10,4 @@ C:\Users\Numa Rai\source\repos\Solution1\Domain.StudentCRUD\obj\Debug\net8.0\ref
 C:\Users\Numa Rai\source\repos\Solution1\Domain.StudentCRUD\obj\Debug\net8.0\Domain.StudentCRUD.pdb
 C:\Users\Numa Rai\source\repos\Solution1\Domain.StudentCRUD\obj\Debug\net8.0\ref\Domain.StudentCRUD.dll
 C:\Users\Numa Rai\source\repos\Solution1\Domain.StudentCRUD\obj\Debug\net8.0\Domain.StudentCRUD.csproj.AssemblyReference.cache
+C:\Users\Numa Rai\source\repos\Solution1\Domain.StudentCRUD\obj\Debug\net8.0\Domain.StudentCRUD.sourcelink.json

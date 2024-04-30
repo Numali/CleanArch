@@ -13,3 +13,4 @@ C:\Users\Numa Rai\source\repos\Solution1\Application.StudentCRUD\obj\Debug\net8.
 C:\Users\Numa Rai\source\repos\Solution1\Application.StudentCRUD\obj\Debug\net8.0\refint\Application.StudentCRUD.dll
 C:\Users\Numa Rai\source\repos\Solution1\Application.StudentCRUD\obj\Debug\net8.0\Application.StudentCRUD.pdb
 C:\Users\Numa Rai\source\repos\Solution1\Application.StudentCRUD\obj\Debug\net8.0\ref\Application.StudentCRUD.dll
+C:\Users\Numa Rai\source\repos\Solution1\Application.StudentCRUD\obj\Debug\net8.0\Application.StudentCRUD.sourcelink.json

@@ -1,5 +1,6 @@
 using Application.StudentCRUD;
 using Domain.StudentCRUD;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Presentation.StudentCRUD.Controllers
@@ -20,6 +21,8 @@ namespace Presentation.StudentCRUD.Controllers
             return Ok(addStudent);
         }
 
+
+        [Authorize(Roles ="User")]
         [HttpGet, Route("GetAllStudents")]
         public async Task<IActionResult> GetAllStudents()
         {

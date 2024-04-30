@@ -17,3 +17,4 @@ C:\Users\Numa Rai\source\repos\Solution1\Infrastructure.StudentCRUD\bin\Debug\ne
 C:\Users\Numa Rai\source\repos\Solution1\Infrastructure.StudentCRUD\obj\Debug\net8.0\Infrastructure.StudentCRUD.csproj.AssemblyReference.cache
 C:\Users\Numa Rai\source\repos\Solution1\Infrastructure.StudentCRUD\obj\Debug\net8.0\Infrastr.F86A2535.Up2Date
 C:\Users\Numa Rai\source\repos\Solution1\Infrastructure.StudentCRUD\obj\Debug\net8.0\Infrastructure.StudentCRUD.genruntimeconfig.cache
+C:\Users\Numa Rai\source\repos\Solution1\Infrastructure.StudentCRUD\obj\Debug\net8.0\Infrastructure.StudentCRUD.sourcelink.json

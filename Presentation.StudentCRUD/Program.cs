@@ -1,8 +1,13 @@
 using Application.StudentCRUD;
 using Domain.StudentCRUD;
 using Infrastructure.StudentCRUD;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.Options;
+using Microsoft.IdentityModel.Tokens;
+using Microsoft.OpenApi.Models;
+using Swashbuckle.AspNetCore.Filters;
+using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,9 +19,40 @@ builder.Services.AddSwaggerGen();
 builder.Logging.AddConsole();
 
 //AddAuthentication
-builder.Services.AddAuthentication()
+builder.Services.AddAuthentication(options =>
+{
+    options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+    options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+})
+    .AddJwtBearer(options => 
+{
 
-      .AddBearerToken(IdentityConstants.BearerScheme);
+    options.TokenValidationParameters = new TokenValidationParameters
+    {
+        ValidateIssuer = true,
+        ValidateAudience = true,
+        ValidateLifetime = true,
+        ValidateIssuerSigningKey = true,
+        ValidIssuer = builder.Configuration["Jwt.Issuer"],
+        ValidAudience = builder.Configuration["Jwt.Audience"],
+        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Key"]!))
+
+    };
+});
+
+builder.Services.AddSwaggerGen(options =>
+{
+    options.AddSecurityDefinition("oauth", new Microsoft.OpenApi.Models.OpenApiSecurityScheme
+    {
+        In = Microsoft.OpenApi.Models.ParameterLocation.Header,
+        Name = "Authorization",
+        Type = SecuritySchemeType.ApiKey
+    });
+
+    options.OperationFilter<SecurityRequirementsOperationFilter>();
+});
+          
+    //.AddBearerToken(IdentityConstants.BearerScheme);
 
 //Add Authorization
 builder.Services.AddAuthorizationBuilder();
@@ -26,7 +62,8 @@ builder.Services.AddAuthorizationBuilder();
 builder.Services.AddIdentity<AppUser, IdentityRole>()
     .AddEntityFrameworkStores<ApplicationDBContext>()
     .AddRoles<IdentityRole>()
-    .AddApiEndpoints();
+    .AddSignInManager() //to check signin 
+    .AddRoles<IdentityRole>();// to check roles 
 
 //Configure DbContext
 builder.Services.AddDbContext<ApplicationDBContext>();
@@ -61,7 +98,7 @@ using (var scope = app.Services.CreateScope())
 
 
 
-    app.MapIdentityApi<AppUser>();//to show Api
+    //app.MapIdentityApi<AppUser>();//to show Api
 
 
 

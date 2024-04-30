@@ -3,60 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Numa Rai\\source\\repos\\Solution1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3644C778-AED8-42CF-9CDC-09C52F6E7D22}|Infrastructure.StudentCRUD\\Infrastructure.StudentCRUD.csproj|c:\\users\\numa rai\\source\\repos\\solution1\\infrastructure.studentcrud\\infrastructure.studentcrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3644C778-AED8-42CF-9CDC-09C52F6E7D22}|Infrastructure.StudentCRUD\\Infrastructure.StudentCRUD.csproj|solutionrelative:infrastructure.studentcrud\\infrastructure.studentcrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B68D9FA-B386-4000-9659-B367307ECE1E}|Frontend\\Frontend.csproj|c:\\users\\numa rai\\source\\repos\\solution1\\frontend\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5B68D9FA-B386-4000-9659-B367307ECE1E}|Frontend\\Frontend.csproj|solutionrelative:frontend\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B68D9FA-B386-4000-9659-B367307ECE1E}|Frontend\\Frontend.csproj|c:\\users\\numa rai\\source\\repos\\solution1\\frontend\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5B68D9FA-B386-4000-9659-B367307ECE1E}|Frontend\\Frontend.csproj|solutionrelative:frontend\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A56406D-7248-44D2-B084-0862655D63FD}|Presentation.StudentCRUD\\Presentation.StudentCRUD.csproj|c:\\users\\numa rai\\source\\repos\\solution1\\presentation.studentcrud\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A56406D-7248-44D2-B084-0862655D63FD}|Presentation.StudentCRUD\\Presentation.StudentCRUD.csproj|solutionrelative:presentation.studentcrud\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B68D9FA-B386-4000-9659-B367307ECE1E}|Frontend\\Frontend.csproj|c:\\users\\numa rai\\source\\repos\\solution1\\frontend\\components\\pages\\studentrecord.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5B68D9FA-B386-4000-9659-B367307ECE1E}|Frontend\\Frontend.csproj|solutionrelative:frontend\\components\\pages\\studentrecord.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89010291-F700-45D9-83E7-0089BBA49720}|Domain.StudentCRUD\\Domain.StudentCRUD.csproj|c:\\users\\numa rai\\source\\repos\\solution1\\domain.studentcrud\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89010291-F700-45D9-83E7-0089BBA49720}|Domain.StudentCRUD\\Domain.StudentCRUD.csproj|solutionrelative:domain.studentcrud\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B68D9FA-B386-4000-9659-B367307ECE1E}|Frontend\\Frontend.csproj|c:\\users\\numa rai\\source\\repos\\solution1\\frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B68D9FA-B386-4000-9659-B367307ECE1E}|Frontend\\Frontend.csproj|solutionrelative:frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89010291-F700-45D9-83E7-0089BBA49720}|Domain.StudentCRUD\\Domain.StudentCRUD.csproj|c:\\users\\numa rai\\source\\repos\\solution1\\domain.studentcrud\\domain.studentcrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{89010291-F700-45D9-83E7-0089BBA49720}|Domain.StudentCRUD\\Domain.StudentCRUD.csproj|solutionrelative:domain.studentcrud\\domain.studentcrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39B4187C-70DC-427C-AE2A-95EFC58BC824}|Application.StudentCRUD\\Application.StudentCRUD.csproj|c:\\users\\numa rai\\source\\repos\\solution1\\application.studentcrud\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39B4187C-70DC-427C-AE2A-95EFC58BC824}|Application.StudentCRUD\\Application.StudentCRUD.csproj|solutionrelative:application.studentcrud\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6A56406D-7248-44D2-B084-0862655D63FD}|Presentation.StudentCRUD\\Presentation.StudentCRUD.csproj|c:\\users\\numa rai\\source\\repos\\solution1\\presentation.studentcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A56406D-7248-44D2-B084-0862655D63FD}|Presentation.StudentCRUD\\Presentation.StudentCRUD.csproj|solutionrelative:presentation.studentcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3644C778-AED8-42CF-9CDC-09C52F6E7D22}|Infrastructure.StudentCRUD\\Infrastructure.StudentCRUD.csproj|c:\\users\\numa rai\\source\\repos\\solution1\\infrastructure.studentcrud\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3644C778-AED8-42CF-9CDC-09C52F6E7D22}|Infrastructure.StudentCRUD\\Infrastructure.StudentCRUD.csproj|solutionrelative:infrastructure.studentcrud\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6A56406D-7248-44D2-B084-0862655D63FD}|Presentation.StudentCRUD\\Presentation.StudentCRUD.csproj|c:\\users\\numa rai\\source\\repos\\solution1\\presentation.studentcrud\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A56406D-7248-44D2-B084-0862655D63FD}|Presentation.StudentCRUD\\Presentation.StudentCRUD.csproj|solutionrelative:presentation.studentcrud\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89010291-F700-45D9-83E7-0089BBA49720}|Domain.StudentCRUD\\Domain.StudentCRUD.csproj|c:\\users\\numa rai\\source\\repos\\solution1\\domain.studentcrud\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89010291-F700-45D9-83E7-0089BBA49720}|Domain.StudentCRUD\\Domain.StudentCRUD.csproj|solutionrelative:domain.studentcrud\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A56406D-7248-44D2-B084-0862655D63FD}|Presentation.StudentCRUD\\Presentation.StudentCRUD.csproj|c:\\users\\numa rai\\source\\repos\\solution1\\presentation.studentcrud\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A56406D-7248-44D2-B084-0862655D63FD}|Presentation.StudentCRUD\\Presentation.StudentCRUD.csproj|solutionrelative:presentation.studentcrud\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3644C778-AED8-42CF-9CDC-09C52F6E7D22}|Infrastructure.StudentCRUD\\Infrastructure.StudentCRUD.csproj|c:\\users\\numa rai\\source\\repos\\solution1\\infrastructure.studentcrud\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3644C778-AED8-42CF-9CDC-09C52F6E7D22}|Infrastructure.StudentCRUD\\Infrastructure.StudentCRUD.csproj|solutionrelative:infrastructure.studentcrud\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{89010291-F700-45D9-83E7-0089BBA49720}|Domain.StudentCRUD\\Domain.StudentCRUD.csproj|c:\\users\\numa rai\\source\\repos\\solution1\\domain.studentcrud\\loginmodelcs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89010291-F700-45D9-83E7-0089BBA49720}|Domain.StudentCRUD\\Domain.StudentCRUD.csproj|solutionrelative:domain.studentcrud\\loginmodelcs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89010291-F700-45D9-83E7-0089BBA49720}|Domain.StudentCRUD\\Domain.StudentCRUD.csproj|c:\\users\\numa rai\\source\\repos\\solution1\\domain.studentcrud\\domain.studentcrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{89010291-F700-45D9-83E7-0089BBA49720}|Domain.StudentCRUD\\Domain.StudentCRUD.csproj|solutionrelative:domain.studentcrud\\domain.studentcrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89010291-F700-45D9-83E7-0089BBA49720}|Domain.StudentCRUD\\Domain.StudentCRUD.csproj|c:\\users\\numa rai\\source\\repos\\solution1\\domain.studentcrud\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89010291-F700-45D9-83E7-0089BBA49720}|Domain.StudentCRUD\\Domain.StudentCRUD.csproj|solutionrelative:domain.studentcrud\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,105 +58,67 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Numa Rai\\source\\repos\\Solution1\\Presentation.StudentCRUD\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Presentation.StudentCRUD\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Numa Rai\\source\\repos\\Solution1\\Presentation.StudentCRUD\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Presentation.StudentCRUD\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T03:44:34.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "LoginModelcs",
+              "DocumentMoniker": "C:\\Users\\Numa Rai\\source\\repos\\Solution1\\Domain.StudentCRUD\\LoginModelcs",
+              "RelativeDocumentMoniker": "Domain.StudentCRUD\\LoginModelcs",
+              "ToolTip": "C:\\Users\\Numa Rai\\source\\repos\\Solution1\\Domain.StudentCRUD\\LoginModelcs",
+              "RelativeToolTip": "Domain.StudentCRUD\\LoginModelcs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-30T03:33:35.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Domain.StudentCRUD",
+              "DocumentMoniker": "C:\\Users\\Numa Rai\\source\\repos\\Solution1\\Domain.StudentCRUD\\Domain.StudentCRUD.csproj",
+              "RelativeDocumentMoniker": "Domain.StudentCRUD\\Domain.StudentCRUD.csproj",
+              "ToolTip": "C:\\Users\\Numa Rai\\source\\repos\\Solution1\\Domain.StudentCRUD\\Domain.StudentCRUD.csproj",
+              "RelativeToolTip": "Domain.StudentCRUD\\Domain.StudentCRUD.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-30T03:32:49.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\Numa Rai\\source\\repos\\Solution1\\Presentation.StudentCRUD\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Presentation.StudentCRUD\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\Numa Rai\\source\\repos\\Solution1\\Presentation.StudentCRUD\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Presentation.StudentCRUD\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAAowDQAAAARAAAA",
+              "ViewState": "AQIAALIAAAAAAAAAAAAIwLkAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-26T03:10:14.364Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StudentRecord.razor",
-              "DocumentMoniker": "C:\\Users\\Numa Rai\\source\\repos\\Solution1\\Frontend\\Components\\Pages\\StudentRecord.razor",
-              "RelativeDocumentMoniker": "Frontend\\Components\\Pages\\StudentRecord.razor",
-              "ToolTip": "C:\\Users\\Numa Rai\\source\\repos\\Solution1\\Frontend\\Components\\Pages\\StudentRecord.razor",
-              "RelativeToolTip": "Frontend\\Components\\Pages\\StudentRecord.razor",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-26T02:44:57.254Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\Numa Rai\\source\\repos\\Solution1\\Frontend\\Components\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "Frontend\\Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\Numa Rai\\source\\repos\\Solution1\\Frontend\\Components\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "Frontend\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACUAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-26T02:37:02.324Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Domain.StudentCRUD.csproj",
-              "DocumentMoniker": "C:\\Users\\Numa Rai\\source\\repos\\Solution1\\Domain.StudentCRUD\\Domain.StudentCRUD.csproj",
-              "RelativeDocumentMoniker": "Domain.StudentCRUD\\Domain.StudentCRUD.csproj",
-              "ToolTip": "C:\\Users\\Numa Rai\\source\\repos\\Solution1\\Domain.StudentCRUD\\Domain.StudentCRUD.csproj",
-              "RelativeToolTip": "Domain.StudentCRUD\\Domain.StudentCRUD.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-09T03:21:58.504Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Numa Rai\\source\\repos\\Solution1\\Presentation.StudentCRUD\\Program.cs",
               "RelativeDocumentMoniker": "Presentation.StudentCRUD\\Program.cs",
               "ToolTip": "C:\\Users\\Numa Rai\\source\\repos\\Solution1\\Presentation.StudentCRUD\\Program.cs",
               "RelativeToolTip": "Presentation.StudentCRUD\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAA1AAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwBsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T04:19:30.954Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Infrastructure.StudentCRUD.csproj",
-              "DocumentMoniker": "C:\\Users\\Numa Rai\\source\\repos\\Solution1\\Infrastructure.StudentCRUD\\Infrastructure.StudentCRUD.csproj",
-              "RelativeDocumentMoniker": "Infrastructure.StudentCRUD\\Infrastructure.StudentCRUD.csproj",
-              "ToolTip": "C:\\Users\\Numa Rai\\source\\repos\\Solution1\\Infrastructure.StudentCRUD\\Infrastructure.StudentCRUD.csproj",
-              "RelativeToolTip": "Infrastructure.StudentCRUD\\Infrastructure.StudentCRUD.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-09T03:30:49.923Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Weather.razor",
-              "DocumentMoniker": "C:\\Users\\Numa Rai\\source\\repos\\Solution1\\Frontend\\Components\\Pages\\Weather.razor",
-              "RelativeDocumentMoniker": "Frontend\\Components\\Pages\\Weather.razor",
-              "ToolTip": "C:\\Users\\Numa Rai\\source\\repos\\Solution1\\Frontend\\Components\\Pages\\Weather.razor",
-              "RelativeToolTip": "Frontend\\Components\\Pages\\Weather.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-26T03:18:27.002Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IStudentService.cs",
-              "DocumentMoniker": "C:\\Users\\Numa Rai\\source\\repos\\Solution1\\Application.StudentCRUD\\IStudentService.cs",
-              "RelativeDocumentMoniker": "Application.StudentCRUD\\IStudentService.cs",
-              "ToolTip": "C:\\Users\\Numa Rai\\source\\repos\\Solution1\\Application.StudentCRUD\\IStudentService.cs",
-              "RelativeToolTip": "Application.StudentCRUD\\IStudentService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T03:10:23.351Z",
+              "WhenOpened": "2024-04-02T04:19:30.954Z",
               "EditorCaption": ""
             },
             {
@@ -199,71 +129,10 @@
               "RelativeDocumentMoniker": "Domain.StudentCRUD\\Student.cs",
               "ToolTip": "C:\\Users\\Numa Rai\\source\\repos\\Solution1\\Domain.StudentCRUD\\Student.cs",
               "RelativeToolTip": "Domain.StudentCRUD\\Student.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAqAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwBAAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-02T03:02:53.844Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Numa Rai\\source\\repos\\Solution1\\Frontend\\Program.cs",
-              "RelativeDocumentMoniker": "Frontend\\Program.cs",
-              "ToolTip": "C:\\Users\\Numa Rai\\source\\repos\\Solution1\\Frontend\\Program.cs",
-              "RelativeToolTip": "Frontend\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T03:07:48.058Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\Numa Rai\\source\\repos\\Solution1\\Domain.StudentCRUD\\AppUser.cs",
-              "RelativeDocumentMoniker": "Domain.StudentCRUD\\AppUser.cs",
-              "ToolTip": "C:\\Users\\Numa Rai\\source\\repos\\Solution1\\Domain.StudentCRUD\\AppUser.cs",
-              "RelativeToolTip": "Domain.StudentCRUD\\AppUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T03:37:35.031Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\Numa Rai\\source\\repos\\Solution1\\Presentation.StudentCRUD\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "Presentation.StudentCRUD\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\Numa Rai\\source\\repos\\Solution1\\Presentation.StudentCRUD\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "Presentation.StudentCRUD\\Controllers\\StudentController.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAUwCkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T02:39:39.842Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "StudentService.cs",
-              "DocumentMoniker": "C:\\Users\\Numa Rai\\source\\repos\\Solution1\\Infrastructure.StudentCRUD\\StudentService.cs",
-              "RelativeDocumentMoniker": "Infrastructure.StudentCRUD\\StudentService.cs",
-              "ToolTip": "C:\\Users\\Numa Rai\\source\\repos\\Solution1\\Infrastructure.StudentCRUD\\StudentService.cs",
-              "RelativeToolTip": "Infrastructure.StudentCRUD\\StudentService.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAkwDsAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T04:04:20.257Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ApplicationDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\Numa Rai\\source\\repos\\Solution1\\Infrastructure.StudentCRUD\\ApplicationDBContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure.StudentCRUD\\ApplicationDBContext.cs",
-              "ToolTip": "C:\\Users\\Numa Rai\\source\\repos\\Solution1\\Infrastructure.StudentCRUD\\ApplicationDBContext.cs",
-              "RelativeToolTip": "Infrastructure.StudentCRUD\\ApplicationDBContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAcAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T03:26:24.505Z"
             }
           ]
         }
